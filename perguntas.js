@@ -17,9 +17,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Tema HTML',
-    'Para que serve a tag <a>?',
-    'Criar links'
+    'Tema JavaScript',
+    'Para que serve o let no JavaScript?',
+    'Declarar variáveis com escopo de bloco'
 )
 
 criaCartao(
